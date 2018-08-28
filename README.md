@@ -1,3 +1,3 @@
 # Snake
 
-Harjoitystyö
+Harjoitystyö - kommentointi, koodin ymmärtäminen
